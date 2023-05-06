@@ -1,0 +1,31 @@
+#anuncio{
+    width: 300px;
+}
+
+#anuncio h2{
+    padding-bottom: 2.5rem;
+}
+
+#anuncio p{
+    padding-bottom: 2.5rem;
+}
+
+#divAnuncio{
+    
+}
+
+#fondoOpaco{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba
+    (
+    0
+    ,
+    0
+    ,
+    0
+    ,
+    0.5
+    ); ;
+}
